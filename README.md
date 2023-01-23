@@ -40,7 +40,7 @@ As the project progressed, the questions piled up. But the politeness to say goo
 This technical test required me to learn in a short period of time about **Docker**, as it was necessary to create two separate docker micro-services, one for the web page and one for the RESful API.
 
 ### 🧠 😣  💪  💡
-It was a challenging task as I had not yet had the opportunity to test my Frontend skills (HTML, CSS, and JS) acquired while doing **CFGS DAW** and my Backend skills (Flask and Python) that I had acquired through self-study.
+It was a challenging task as I had not yet had the opportunity to test my Frontend skills (HTML, CSS, and JS) acquired while doing **CFGS DAW** and my Backend skills (Flask and Python) that I had acquired through self-study. The current Bootcamp on Backend with Python its being developed with a Django focused.
 
 ### 📚 🔎
 I sought consultations, due to mental blocks, for functions or technologies I was not familiar with at the time of development, from the following resources:
