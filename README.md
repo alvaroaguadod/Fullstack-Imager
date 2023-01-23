@@ -66,5 +66,5 @@ A Drag & Drop.
 An erase button.
 
 ### Gratitud 🎁
-Regardless of the outcome, it has been a continuous learning process. In which I have been able to discover with what I have struggled the most, what I need to improve, and ways to keep challenging myself to become a more effe
+Regardless of the outcome, it has been a continuous learning process. In which I have been able to discover with what I have struggled the most, what I need to improve, and ways to keep challenging myself to become a better programmer.
 
