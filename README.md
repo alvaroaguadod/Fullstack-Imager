@@ -18,8 +18,7 @@ Within a maximum of **96h**, I couldn't complete the task.
 
 ### Run the Code 👩‍💻
 
-**Frontend ->** I directly opened the HTML on the Brave Browser. 
-![Screenshot](https://github.com/alvaroaguadod/ TERMINAR AÑADIR LINK)
+**Frontend ->** I directly opened the HTML on the Brave Browser. You can see the layout on the first screenshot. 
 
 **Backend ->** I used Insomnia to send the requests and test it.
 
