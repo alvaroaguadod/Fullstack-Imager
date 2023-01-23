@@ -1,6 +1,6 @@
 # 📷 Fullstack Imager 📷
 The task consists in building a basic web page powered by a RESTful API that allows the user to upload new images (either from their computer or by providing a source url), list the images that have been uploaded so far as well as allow analyzing any of the images uploaded.
-![Screenshot](https://github.com/alvaroaguadod/ TERMINAR AÑADIR LINK)
+![Screenshot](https://github.com/alvaroaguadod/Fullstack-Imager/blob/main/Screenshot%20Fullstack%20Imager.png)
 
 ## OH NO! BAD NEWS... already 📰😞 
 Within a maximum of **96h**, I couldn't complete the task.  
@@ -28,12 +28,12 @@ Within a maximum of **96h**, I couldn't complete the task.
 ### List of Steps 👣
 Desing Thinking is a skill I will start working on for my next projects.
 I drew the frontend to get an idea of what it should look like and how it could be displayed.
-![Screenshot](https://github.com/alvaroaguadod/ TERMINAR AÑADIR LINK)
-![Screenshot](https://github.com/alvaroaguadod/ TERMINAR AÑADIR LINK)
+![Screenshot](https://github.com/alvaroaguadod/Fullstack-Imager/blob/main/dibus1.png)
+![Screenshot](https://github.com/alvaroaguadod/Fullstack-Imager/blob/main/dibus2.png)
 
 As the project progressed, the questions piled up. But the politeness to say good morning (even to myself) was not lacking.
 
-![Screenshot](https://github.com/alvaroaguadod/ TERMINAR AÑADIR LINK)
+![Screenshot](https://github.com/alvaroaguadod/Fullstack-Imager/blob/main/questions%20piled%20up.png)
 
 
 ### ⚡️🏃🏻💨💨
