@@ -1,5 +1,5 @@
 # 📷 Fullstack Imager 📷
-The task consists in building a basic web page powered by a RESTful API that allows the user to upload new images (either from their computer or by providing a source url), list the images that have been uploaded so far as well as allow analyzing any of the images uploaded.
+<pre>The task consists in building a basic web page powered by a RESTful API that allows the user to upload new images (either from their computer or by providing a source url), list the images that have been uploaded so far as well as allow analyzing any of the images uploaded.<br />
 
 
 
