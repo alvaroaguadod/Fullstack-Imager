@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  frontendpa:
+    image: frontendpa
+    build:
+      context: .
+      dockerfile: ./Dockerfile

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="../static/image/camera_colour.png">
+  <link rel="stylesheet" type="text/css" href="../static/css/main.css">
+  <title>Fullstack Imager</title>
+</head>
+<body>
+  <section id="container1">
+    <div class="image-container">
+      <img src="../static/image/camera_colour.png" alt="Imager">
+      <h1>Fullstack Imager</h1>
+    </div>
+    <article id="right">
+
+      <div class="uploaded-files" id="app">
+      </div>
+      <form method="post" action="/" enctype="multipart/form-data">
+        <input type="file" id="image-file" accept="image/*">
+        <input type="text" id="image-url" placeholder="Enter image URL">
+        <label for="submit"><input type="button" id="submit" value="Upload" onclick="uploadImage()"></label>
+      </form>
+      <div class="message-container">
+        <p>Aquí deben reflejarse los errores de upload</p>
+        <p>Aquí los errores de analyse</p>
+      </div> 
+    
+    </article>
+  </section>
+
+<script src="../static/js/main.js"></script>
+<script src="../static/js/app.js"></script>
+
+</body>
+</html>
