@@ -13,7 +13,7 @@ Within a maximum of **96h**, I couldn't complete the task.
 
 **Frontend ->** In the folder named frontendpa there is 3 docker files, one JSON file and two folders. First being the static, which contains the CSS, the image, and the JS). Second one templates with the HTML. 
 - The *HTML* is not yet being completed as for the error messages is just placed an space for them with red typo, and the JS functions are not being placed on it (only a JS file named app.js with the user thumbnails thing which is something I used to test the white wannabe screen).    
-- The *JS* is not even tested yet therefore functions are not known to be working. Most probably they need to be redone.
+- The *JS* is not even tested yet therefore functions are not known to be working. 
 
 **Backend ->** The Backend is complete and functional, if requests are made through a programme such as Insomnia. I therefore added an export from that programme. All the required endpoints are functional. 
 - The */upload_images* uploads a picture from url or from a file, also creates a thumbnail from the original picture to be shown beside its picture name.  
